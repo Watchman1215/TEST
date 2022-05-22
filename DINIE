@@ -11,11 +11,11 @@
 #EXTINF:-1 tvg-id="100" tvg-name="DINIETV" group-title="MALAYSIA" tvg-logo="https://i.ibb.co/0Yjp6YC/2daebaf844e2436f970d6a9fab63adac-2.png",DINIE HAFIY TV
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
-EXTINF:-1 tvg-id="101" tvg-name="TV1 (SD)" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",TV1 (SD)
+EXTINF:-1 tvg-id="101" tvg-name="TV1 (SD)" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",TV1(SD)
 http://axcestv.vip:8080/live/freeview/axcestv/431.ts
 
-EXTINF:-1 tvg-id="101" tvg-name="TV1 (FHD)" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",TV1 (FHD)
+EXTINF:-1 tvg-id="101" tvg-name="TV1 (FHD)" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",TV1(FHD)
 http://axcestv.vip:8080/live/freeview/axcestv/432.ts
 
-#EXTINF:-1 tvg-id="102" tvg-name="TV2" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png",TV2 (SD)
+#EXTINF:-1 tvg-id="102" tvg-name="TV2" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png",TV2(SD)
 http://axcestv.vip:8080/live/freeview/axcestv/433.ts
