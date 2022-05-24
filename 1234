@@ -15,10 +15,10 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 
 EXTINF:-1 tvg-id="101" tvg-name="TV1" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",TV1(SD)
-http://axcestv.vip:8080/live/freeview/axcestv/431.ts
+http://axcestv.vip:8080/freeview/axcestv/431
 
 EXTINF:-1 tvg-id="101" tvg-name="TV1" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/395_144.png",TV1(FHD)
-http://axcestv.vip:8080/live/freeview/axcestv/432.ts
+http://axcestv.vip:8080/freeview/axcestv/432
 
 #EXTINF:-1 tvg-id="102" tvg-name="TV2" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png",TV2(SD)
 http://axcestv.vip:8080/live/freeview/axcestv/433.ts
@@ -52,20 +52,56 @@ http://axcestv.vip:8080/live/freeview/axcestv/441.ts
 #EXTINF:-1 tvg-id="122" tvg-name="TVS" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",TVS 
 http://axcestv.vip:8080/live/freeview/axcestv/442.ts
 
-
-
+#EXTINF:-1 group-title="MALAYSIA" tvg-id="OKEY" tvg-chno="OKEY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png",Okey TV
 http://axcestv.vip:8080/live/freeview/axcestv/443.ts
+
+#EXTINF:-1 group-title="MALAYSIA" ch-number="105" tvg-id="105" tvg-chno="105" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sanga
 http://axcestv.vip:8080/live/freeview/axcestv/444.ts
+
+#EXTINF:-1 tvg-id="123" tvg-name="MALAYSIA" group-title="MYFREEVIEW" tvg-logo="https://iili.io/1NqAMl.png",123 Awesome TV 
 http://axcestv.vip:8080/live/freeview/axcestv/445.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3939ff52ae5e4d0e244414bb10682510&key=c24f329834fb054fd9e1a5d51d5a5306
+#EXTINF:-1 tvg-id="114" tvg-name="TV AL-HIJRAH" group-title="MALAYSIA" tvg-logo="https://iili.io/1NqqFI.png",114 Al-Hijrah
 http://axcestv.vip:8080/live/freeview/axcestv/446.ts
+
+#####################################################################################################################################################################################
+####################################################################   ASTRO     ####################################################################################################
+#####################################################################################################################################################################################
+
+#EXTINF:-1 tvg-id="Astro Bernama" tvg-name="Astro Bernama" tvg-logo="https://selangorjournal.my/wp-content/uploads/2020/10/Bernama.jpg" group-title="ASTRO",Astro Bernama
 http://axcestv.vip:8080/live/freeview/axcestv/447.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09891197fd467008f73b1fe18bfed710:fa752673e5da5541a796569371788dea
+#EXTINF:-1 tvg-id="501" tvg-name="Astro Awani" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/84_144.png",Astro Awani
 http://axcestv.vip:8080/live/freeview/axcestv/448.ts
+
+#EXTINF:-1 tvg-id="106" tvg-name="Astro Oasis HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/315_144.png",Astro Oasis
 http://axcestv.vip:8080/live/freeview/axcestv/449.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39b114b7ebecd9d4a7f1c797dd885b10:8d2be29307bb382c8c6c286cc9cd07c6
+#EXTINF:-1 tvg-id="611" tvg-name="Astro Ceria HD" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",Astro Ceria 
 http://axcestv.vip:8080/live/freeview/axcestv/450.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39b114b7ebecd9d4a7f1c797dd885b10:8d2be29307bb382c8c6c286cc9cd07c6
+#EXTINF:-1 tvg-id="611" tvg-name="Astro Ceria HD" group-title="ASTRO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Astro_Ceria_%282019%29.png/revision/latest?cb=20201018231230",Astro Ceria(BACKUP) 
 http://axcestv.vip:8080/live/freeview/axcestv/451.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=452aca9691995f5ae62629035888e110&key=35d62e585c052018e1c190eda89fafa3
+#EXTINF:-1 tvg-id="105" tvg-name="Astro Prima HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/316_144.png",Astro Prima
 http://axcestv.vip:8080/live/freeview/axcestv/452.ts
+
+#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="https://quake.com.my/images/2020/channels/astro-ria.jpg" group-title="ASTRO",Astro Ria
 http://axcestv.vip:8080/live/freeview/axcestv/453.ts
+
+#EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="https://quake.com.my/images/2020/channels/astro-ria.jpg" group-title="ASTRO",Astro Ria(BACKUP)
 http://axcestv.vip:8080/live/freeview/axcestv/454.ts
+
 http://axcestv.vip:8080/live/freeview/axcestv/455.ts
 http://axcestv.vip:8080/live/freeview/axcestv/456.ts
 http://axcestv.vip:8080/live/freeview/axcestv/457.ts
