@@ -46,8 +46,9 @@ http://axcestv.vip:8080/live/freeview/axcestv/441.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dd600869fd5f4bfee286825f6d778b10:eb5b83acbbd79af479a00db92935a34b
-#EXTINF:-1 tvg-id="122" tvg-name="TVS" group-title="MYFREEVIEW" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",TVS 
+#EXTINF:-1 tvg-id="122" tvg-name="TVS" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",TVS 
 http://axcestv.vip:8080/live/freeview/axcestv/442.ts
+
 
 
 http://axcestv.vip:8080/live/freeview/axcestv/443.ts
