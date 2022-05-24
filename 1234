@@ -20,16 +20,36 @@ http://axcestv.vip:8080/live/freeview/axcestv/432.ts
 #EXTINF:-1 tvg-id="102" tvg-name="TV2" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png",TV2(SD)
 http://axcestv.vip:8080/live/freeview/axcestv/433.ts
 
-
+#EXTINF:-1 tvg-id="102" tvg-name="TV2" group-title="MALAYSIA" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/103_144.png",TV2(FHD)
 http://axcestv.vip:8080/live/freeview/axcestv/434.ts
+
+#EXTINF:-1 group-title="MALAYSIA" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",TV3(FHD)
 http://axcestv.vip:8080/live/freeview/axcestv/435.ts
+
+#EXTINF:-1 group-title="MALAYSIA" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",TV3(HD)
 http://axcestv.vip:8080/live/freeview/axcestv/436.ts
+
+#EXTINF:-1 group-title="MALAYSIA" ch-number="103" tvg-id="103" tvg-chno="103" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/103.png",TV3(BACKUP)
 http://axcestv.vip:8080/live/freeview/axcestv/437.ts
+
+#EXTINF:-1 tvg-id="106" group-title="MALAYSIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/TV6_Logo.jpg/800px-TV6_Logo.jpg",TV6
 http://axcestv.vip:8080/live/freeview/axcestv/438.ts
+
+#EXTINF:-1 tvg-id="107" group-title="MALAYSIA" tvg-logo="https://www.dragonrouge.com/wp-content/uploads/2018/02/180125_ntv7_Feature_Logo-1440x0-c-default.jpg",TV7
 http://axcestv.vip:8080/live/freeview/axcestv/439.ts
+
+#EXTINF:-1 group-title="MALAYSIA" ch-number="108" tvg-id="108" tvg-chno="108" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/148.png",8TV
 http://axcestv.vip:8080/live/freeview/axcestv/440.ts
+
+#EXTINF:-1 group-title="MALAYSIA" ch-number="109" tvg-id="109" tvg-chno="109" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/149.png",TV9
 http://axcestv.vip:8080/live/freeview/axcestv/441.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dd600869fd5f4bfee286825f6d778b10:eb5b83acbbd79af479a00db92935a34b
+#EXTINF:-1 tvg-id="122" tvg-name="TVS" group-title="MYFREEVIEW" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/429_144.png",TVS 
 http://axcestv.vip:8080/live/freeview/axcestv/442.ts
+
+
 http://axcestv.vip:8080/live/freeview/axcestv/443.ts
 http://axcestv.vip:8080/live/freeview/axcestv/444.ts
 http://axcestv.vip:8080/live/freeview/axcestv/445.ts
