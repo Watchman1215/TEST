@@ -55,15 +55,15 @@ http://axcestv.vip:8080/live/freeview/axcestv/442.ts
 #EXTINF:-1 group-title="MALAYSIA" tvg-id="OKEY" tvg-chno="OKEY" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/97_144.png",Okey TV
 http://axcestv.vip:8080/live/freeview/axcestv/443.ts
 
-#EXTINF:-1 group-title="MALAYSIA" ch-number="105" tvg-id="105" tvg-chno="105" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sanga
+#EXTINF:-1 group-title="MALAYSIA" ch-number="105" tvg-id="105" tvg-chno="105" tvg-logo="https://www.xtra.com.my/live-tv/assets/img/dramasangat.png",Drama Sangat
 http://axcestv.vip:8080/live/freeview/axcestv/444.ts
 
-#EXTINF:-1 tvg-id="123" tvg-name="MALAYSIA" group-title="MYFREEVIEW" tvg-logo="https://iili.io/1NqAMl.png",123 Awesome TV 
+#EXTINF:-1 tvg-id="123" tvg-name="MALAYSIA" group-title="MALAYSIA" tvg-logo="https://iili.io/1NqAMl.png",Awesome TV 
 http://axcestv.vip:8080/live/freeview/axcestv/445.ts
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=3939ff52ae5e4d0e244414bb10682510&key=c24f329834fb054fd9e1a5d51d5a5306
-#EXTINF:-1 tvg-id="114" tvg-name="TV AL-HIJRAH" group-title="MALAYSIA" tvg-logo="https://iili.io/1NqqFI.png",114 Al-Hijrah
+#EXTINF:-1 tvg-id="114" tvg-name="TV AL-HIJRAH" group-title="MALAYSIA" tvg-logo="https://iili.io/1NqqFI.png",Al-Hijrah
 http://axcestv.vip:8080/live/freeview/axcestv/446.ts
 
 #####################################################################################################################################################################################
@@ -102,13 +102,43 @@ http://axcestv.vip:8080/live/freeview/axcestv/453.ts
 #EXTINF:-1 tvg-id="AstroRia" tvg-name="Astro Ria HD" tvg-logo="https://quake.com.my/images/2020/channels/astro-ria.jpg" group-title="ASTRO",Astro Ria(BACKUP)
 http://axcestv.vip:8080/live/freeview/axcestv/454.ts
 
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna
 http://axcestv.vip:8080/live/freeview/axcestv/455.ts
+
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna(1)
 http://axcestv.vip:8080/live/freeview/axcestv/456.ts
+
+#EXTINF:-1 tvg-id="AstroWarna" tvg-name="Astro Warna HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/107.png",Astro Warna(2)
 http://axcestv.vip:8080/live/freeview/axcestv/457.ts
+
+#EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra
 http://axcestv.vip:8080/live/freeview/axcestv/458.ts
+
+#EXTINF:-1 tvg-id="AstroCitra" tvg-name="Astro Citra HD" group-title="ASTRO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/108.png",Astro Citra(BACKUP)
 http://axcestv.vip:8080/live/freeview/axcestv/459.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=217e77e40cf4ec1269ea1e278eb2c610:b2a2333955933b7dc3d71e7685971f71
+#EXTINF:-1 tvg-id="113" tvg-name="ASTRO AURA HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/400_144.png",stro Aura 
 http://axcestv.vip:8080/live/freeview/axcestv/460.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8a4b24805e598acd00fae76918b3f610:1807230578255fcd79e1279b13ae69d8
+#EXTINF:-1 tvg-id="112" tvg-name="ASTRO RANIA HD" group-title="ASTRO" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/401_144.png",112 Astro Rania
 http://axcestv.vip:8080/live/freeview/axcestv/461.ts
+
+
+
+
+
+
+
+
+
+
+
+
+
 http://axcestv.vip:8080/live/freeview/axcestv/463.ts
 http://axcestv.vip:8080/live/freeview/axcestv/464.ts
 http://axcestv.vip:8080/live/freeview/axcestv/465.ts
