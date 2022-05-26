@@ -500,27 +500,93 @@ http://axcestv.vip:8080/live/freeview/axcestv/568.ts
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=435bb823afb75f32a891cc235dda1210&key=aebc4002b1d9a18388f7bab70c0a7cc8
 http://axcestv.vip:8080/live/freeview/axcestv/569.ts
 
-
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fDQxnKx/KGH.png" group-title="KIDS",NICKELODEON
 http://axcestv.vip:8080/live/freeview/axcestv/570.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fDQxnKx/KGH.png" group-title="KIDS",NICK JR
 http://axcestv.vip:8080/live/freeview/axcestv/571.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0e/HOREE_logo.png" group-title="KIDS",Horee
 http://axcestv.vip:8080/live/freeview/axcestv/572.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MY: ZooMoo Kids HD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/46b7a315e1b7055504f680fd33058da5.jpg" group-title="KIDS",ZooMoo Kids 
 http://axcestv.vip:8080/live/freeview/axcestv/573.ts
+
+#EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/my-kids.jpg" group-title="KIDS",My First
 http://axcestv.vip:8080/live/freeview/axcestv/574.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/BabyFirst_TV.svg" group-title="KIDS",Baby First
 http://axcestv.vip:8080/live/freeview/axcestv/575.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="KIDS",Baby Tv
 http://axcestv.vip:8080/live/freeview/axcestv/625.ts
+
+#####################################################################################################################################################################################
+##########################################################################    DOCUMENTARY   #########################################################################################
+#####################################################################################################################################################################################
+
+#EXTINF:-1 tvg-id="Love Nature" group-title="DOCUMENTARY" tvg-logo="https://blueantmedia.com/wp-content/uploads/2020/01/love-nature_transparent-300x200.png" ch-number="",Love Nature
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=82c5ba9d6368aa9d36d50e4198177910&key=9161f6debd89e32de98008338f0455b7
 http://axcestv.vip:8080/live/freeview/axcestv/537.ts
+
+#EXTINF:-1 tvg-id="717" group-title="DOCUMENTARY" tvg-logo="http://playtv.unifi.com.my:7039/CPS/images/universal/film/logo/201907/20190716/20190716064944437peu.png",BBC Lifestyle 
 http://axcestv.vip:8080/live/freeview/axcestv/538.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea24fcf5a4e5a1a25a8d118c088dc510:effd0dfaddcd0e533314d5305abe031c
+#EXTINF:-1 tvg-id="716" tvg-name="DMAX HD" group-title="DOCUMENTARY" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/DMAX_Logo_16_05_2011.jpg",DMAX 
 http://axcestv.vip:8080/live/freeview/axcestv/539.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=2ccaa7d9731c2e69fa5344c5a547b836&key=d23fb6a3c73eb7ab8ad19ca841db0fb5
+#EXTINF:-1 tvg-id="HistoryChannel" tvg-logo="https://static.mncnow.id/images/channel/001b773e-260.png" group-title="DOCUMENTARY",HISTORY
 http://axcestv.vip:8080/live/freeview/axcestv/540.ts
-http://axcestv.vip:8080/live/freeview/axcestv/541.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0c626a3022340ea1d7af15e51a118a10:543ce4c3e6139f46c4a95c57ef64f540
+#EXTINF:-1 tvg-id="550" tvg-name="Nat Geo Wild HD" group-title="DOCUMENTARY" tvg-logo="https://iili.io/1Nn6lV.png",National Geographic Wild
 http://axcestv.vip:8080/live/freeview/axcestv/542.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=394a40dfff6320fca4a327d7c3127610:68633db62849223bb7de00c64f87166f
+#EXTINF:-1 tvg-id="551" tvg-name="National Geographic HD" group-title="DOCUMENTARY" tvg-logo="https://iili.io/1NnPUB.png",National Geographic
+http://axcestv.vip:8080/live/freeview/axcestv/541.ts
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ccc52e94c493492773612a04fa3a1ae1&key=adf87643eef60a4df18d69044a970d66
+#EXTINF:-1 tvg-id="AnimalPlanet.MACAN" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_203.png" group-title="DOCUMENTARY",ANIMAL PLANET
 http://axcestv.vip:8080/live/freeview/axcestv/543.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=398c7f60db4c1639c85be89047de8310:7b78f26fd99c7f9e43349547dc8030bc
+#EXTINF:-1 tvg-id="552" tvg-name="Discovery Channel HD" group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/PxgShYg2/Discovery-White.png",Discovery Channel
 http://axcestv.vip:8080/live/freeview/axcestv/544.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e5ac299099f8bd93d1cc5a96180d7810:6d931bb991f70059daba1d552f2b4427
+#EXTINF:-1 tvg-id="553" tvg-name="Discovery Asia HD" group-title="DOCUMENTARY" tvg-logo="https://iili.io/1NnLR1.png",Discovery Asia
 http://axcestv.vip:8080/live/freeview/axcestv/545.ts
+
+#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2017/03/AFC_Asian_Food_Channel_logo.png" group-title="DOCUMENTARY",AFC
 http://axcestv.vip:8080/live/freeview/axcestv/546.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="DOCUMENTARY",TLC
 http://axcestv.vip:8080/live/freeview/axcestv/547.ts
+
+
+#####################################################################################################################################################################################
+###################################################################  ENTERTAINMENT  #################################################################################################
+#####################################################################################################################################################################################
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b7f352ff63e533f3baa950d7e2497410:e11de6f5f84bbd2f150ffc82191880e8
+#EXTINF:-1 tvg-id="701" tvg-name="AXN HD" group-title="ENTERTAINMENT" tvg-logo="https://poster.starhubgo.com/Linear_channels2/511_1920x1080_HTV.png",AXN
 http://axcestv.vip:8080/live/freeview/axcestv/526.ts
+
+
+
 http://axcestv.vip:8080/live/freeview/axcestv/527.ts
 http://axcestv.vip:8080/live/freeview/axcestv/528.ts
 http://axcestv.vip:8080/live/freeview/axcestv/529.ts
