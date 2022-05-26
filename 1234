@@ -401,7 +401,7 @@ http://axcestv.vip:8080/live/freeview/axcestv/505.ts
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
-#EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="http://live.flixhub.net/img/sonypixhd.jpg" tvg-id="" tvg-name="" group-title="MOVIES",Sony Pix
+#EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5f/Sony_PIX.png" tvg-id="" tvg-name="" group-title="MOVIES",Sony Pix
 http://axcestv.vip:8080/live/freeview/axcestv/514.ts
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Movies_Now_HD.jpg" group-title="MOVIES",MOVIES NOW
@@ -430,26 +430,78 @@ http://axcestv.vip:8080/live/freeview/axcestv/515.ts
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
 http://axcestv.vip:8080/live/freeview/axcestv/506.ts
 
-
-
-
-
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UWYfFNM.png" group-title="MOVIES",MY CINEMA
 http://axcestv.vip:8080/live/freeview/axcestv/507.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UWYfFNM.png" group-title="MOVIES",MY CINEMA ASIA
 http://axcestv.vip:8080/live/freeview/axcestv/508.ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UWYfFNM.png" group-title="MOVIES",MY CINEMA FAMILY
 http://axcestv.vip:8080/live/freeview/axcestv/509.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=e5c40292f8d01b1d5f0c6b3904d73104&key=bcb2ac12e11c69594ba217bfe8714efe
+#EXTINF:-1 tvg-id="Galaxy" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_13.png" group-title="MOVIES",GALAXY
 http://axcestv.vip:8080/live/freeview/axcestv/517.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=7bc29ff5f405dff971e3a326223fe26c&key=06849a953a38da997b31bacf433cc74a
+#EXTINF:-1 tvg-id="Galaxy Premium" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_12.png" group-title="MOVIES",GALAXY PREMIUM
 http://axcestv.vip:8080/live/freeview/axcestv/518.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bb5e8d918097e067ab1bc7e3a9e68410:dbda57d3de69f5e4b78ff2cc73d8a51a
+#EXTINF:-1 tvg-id="401" tvg-name="Hits Movies HD" group-title="MOVIES" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png",Hits Movies 
 http://axcestv.vip:8080/live/freeview/axcestv/519.ts
+
+#EXTINF:-1 tvg-id="Cinema World" tvg-name="CinemaWorld" tvg-logo="https://i.ibb.co/GTwmZ6y/GD.png" group-title="MOVIES",Cinema World
+#EXTVLCOPT:http-user-agent="CoocaaTV"
 http://axcestv.vip:8080/live/freeview/axcestv/520.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a0/Thrill_logo.jpg" group-title="MOVIES",THRILL
 http://axcestv.vip:8080/live/freeview/axcestv/521.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=1a551e30ef88a5a121dcea6a74a3aee7&key=b0f3de006d6e31e967a5bc41be086e64
+#EXTINF:-1 tvg-id="IMC" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_14.png" group-title="MOVIES",IMC
 http://axcestv.vip:8080/live/freeview/axcestv/522.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Flix_Cinema_Logo.png" group-title="MOVIES",FLIX
 http://axcestv.vip:8080/live/freeview/axcestv/523.ts
+
+
+#EXTINF:-1 tvg-logo="https://visinema.co/storage/groups/1631607444.png" group-title="MOVIES",BIOSKOP INDONESIA
 http://axcestv.vip:8080/live/freeview/axcestv/524.ts
-http://axcestv.vip:8080/live/freeview/axcestv/525.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="MOVIES",KIX
+http://axcestv.vip:8080/live/freeview/axcestv/524.ts
+
+#################################################################################################################################################################
+###################################################  KIDS  ############################################################################################
+#################################################################################################################################################################
+
+#EXTINF:-1 tvg-id="CartoonNetwork" group-title="KIDS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png" ch-number="615",Cartoon Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=435bb823afb75f32a891cc235dda1210&key=aebc4002b1d9a18388f7bab70c0a7cc8
 http://axcestv.vip:8080/live/freeview/axcestv/566.ts
+
+#EXTINF:-1 tvg-id="CartoonNetwork" group-title="KIDS" tvg-logo="https://poster.starhubgo.com/Linear_channels2/316_1920x1080_HTV.png" ch-number="615",Cartoon Network(BACKUP)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=435bb823afb75f32a891cc235dda1210&key=aebc4002b1d9a18388f7bab70c0a7cc8
 http://axcestv.vip:8080/live/freeview/axcestv/567.ts
+
+#EXTINF:-1 tvg-id="DREAMWORKS" group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg/1200px-DreamWorks_Animation_SKG_logo_with_fishing_boy.svg.png" ch-number="",DREAMWORKS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=435bb823afb75f32a891cc235dda1210&key=aebc4002b1d9a18388f7bab70c0a7cc8
 http://axcestv.vip:8080/live/freeview/axcestv/568.ts
+
+#EXTINF:-1 tvg-id="BOOMERANG" group-title="KIDS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" ch-number="",BOOMERANG
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=435bb823afb75f32a891cc235dda1210&key=aebc4002b1d9a18388f7bab70c0a7cc8
 http://axcestv.vip:8080/live/freeview/axcestv/569.ts
+
+
+
 http://axcestv.vip:8080/live/freeview/axcestv/570.ts
 http://axcestv.vip:8080/live/freeview/axcestv/571.ts
 http://axcestv.vip:8080/live/freeview/axcestv/572.ts
