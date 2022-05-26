@@ -196,7 +196,7 @@ http://axcestv.vip:8080/live/freeview/axcestv/646.ts
 #EXTINF:-1 tvg-id="VASANTHAM" group-title="SINGAPORE" tvg-logo="https://pbs.twimg.com/profile_images/1004034269088366592/zHE8qF69_400x400.jpg",VASANTHAM
 http://axcestv.vip:8080/live/freeview/axcestv/647.ts
 
-#EXTINF:-1 tvg-id="SURIA" group-title="SINGAPORE" tvg-logo="https://pbs.twimg.com/profile_images/1004034269088366592/zHE8qF69_400x400.jpg",SURIA
+#EXTINF:-1 tvg-id="SURIA" group-title="SINGAPORE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Mediacorp_Suria_logo.svg/1200px-Mediacorp_Suria_logo.svg.png",SURIA
 http://axcestv.vip:8080/live/freeview/axcestv/648.ts
 
 
@@ -276,40 +276,164 @@ http://axcestv.vip:8080/live/freeview/axcestv/581.ts
 #EXTINF:-1 tvg-id="Kplus" tvg-name="K+" tvg-logo="https://i.ibb.co/smpNq8Z/xgnf.png" group-title="KOREAN",K+
 http://axcestv.vip:8080/live/freeview/axcestv/582.ts
 
+#################################################################################################################################################################
+###################################################  INDIAN   ############################################################################################
+#################################################################################################################################################################
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb6c0c34cd3b22efd444edfd21393c10:84750873ded43774b06b43b67717a708
+#EXTINF:-1 tvg-id="251" tvg-name="BollyOne HD" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/178_144.png",BollyOne 
 http://axcestv.vip:8080/live/freeview/axcestv/584.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=18fe29fdda1b4ca306b4d8f08786fd10:47f6fa3ca0462021aa1c0c09253ece58
+#EXTINF:-1 tvg-id="116" tvg-name="Colors Hindi HD" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/365_144.png",Colors Hindi 
 http://axcestv.vip:8080/live/freeview/axcestv/585.ts
+
+#KODIPROP:inputstream.adaptive.license_key=31ff25ad46df61d3352a03de5f085f10:2daee966c9736498a05505174b266bde
+#EXTINF:-1 tvg-id="241" tvg-name="ABO Movies Thangathirai HD" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/177_144.png",ABO Movies Thangathirai 
 http://axcestv.vip:8080/live/freeview/axcestv/583.ts
+
+#EXTINF:-1 tvg-id="202" tvg-name="Astro Vinmeen HD" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/167_144.png",Astro Vinmeen 
 http://axcestv.vip:8080/live/freeview/axcestv/586.ts
+
+#EXTINF:-1 tvg-id="ASTRO VAANAVIL" tvg-name="Astro Vaanavil HD" group-title="INDIAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Vaanavil_%28s20%29.png",Astro Vaanavil
 http://axcestv.vip:8080/live/freeview/axcestv/587.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=86926949493ad3767442c338b3140810:cbccf2086e836ad13b783f6166f888fd
+#EXTINF:-1 tvg-id="211" tvg-name="SUN TV" group-title="INDIAN" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/358_144.png",Sun TV 
 http://axcestv.vip:8080/live/freeview/axcestv/588.ts
+
+#EXTINF:-1 tvg-id="SONYMAX" tvg-name="SONYMAX" group-title="INDIAN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Sony_MAX.svg/1200px-Sony_MAX.svg.png",SONYMAX
 http://axcestv.vip:8080/live/freeview/axcestv/589.ts
+
+#EXTINF:-1 tvg-id="ZEE BIOSKOP" tvg-name="ZEE BIOSKOP" group-title="INDIAN" tvg-logo="https://www.nettvpro.live/uploads/allimg/20/1-2012011635340-L.jpg",ZEE BIOSKOP
 http://axcestv.vip:8080/live/freeview/axcestv/590.ts
+
+#################################################################################################################################################################
+###################################################  MOVIES   ############################################################################################
+#################################################################################################################################################################
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b0fbb95b8d4ab19d3ea816be9683310:560e1ef299aa9a4352e70ed14f8839b9
+#EXTINF:-1 tvg-id="412" tvg-name="CINEMAX US" group-title="MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122",CINEMAX US 
+https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
 http://axcestv.vip:8080/live/freeview/axcestv/635.ts
-http://axcestv.vip:8080/live/freeview/axcestv/636.ts
-http://axcestv.vip:8080/live/freeview/axcestv/637.ts
-http://axcestv.vip:8080/live/freeview/axcestv/638.ts
-http://axcestv.vip:8080/live/freeview/axcestv/639.ts
-http://axcestv.vip:8080/live/freeview/axcestv/640.ts
-http://axcestv.vip:8080/live/freeview/axcestv/641.ts
-http://axcestv.vip:8080/live/freeview/axcestv/642.ts
-http://axcestv.vip:8080/live/freeview/axcestv/643.ts
-http://axcestv.vip:8080/live/freeview/axcestv/462.ts
-http://axcestv.vip:8080/live/freeview/axcestv/501.ts
-http://axcestv.vip:8080/live/freeview/axcestv/502.ts
-http://axcestv.vip:8080/live/freeview/axcestv/503.ts
-http://axcestv.vip:8080/live/freeview/axcestv/504.ts
-http://axcestv.vip:8080/live/freeview/axcestv/505.ts
-http://axcestv.vip:8080/live/freeview/axcestv/514.ts
-http://axcestv.vip:8080/live/freeview/axcestv/649.ts
-http://axcestv.vip:8080/live/freeview/axcestv/650.ts
-http://axcestv.vip:8080/live/freeview/axcestv/510.ts
-http://axcestv.vip:8080/live/freeview/axcestv/511.ts
-http://axcestv.vip:8080/live/freeview/axcestv/512.ts
-http://axcestv.vip:8080/live/freeview/axcestv/513.ts
-http://axcestv.vip:8080/live/freeview/axcestv/515.ts
-http://axcestv.vip:8080/live/freeview/axcestv/506.ts
+
+http://axcestv.vip:8080/liv#KODIPROP:inputstream.adaptive.license_key=1b0fbb95b8d4ab19d3ea816be9683310:560e1ef299aa9a4352e70ed14f8839b9
+#EXTINF:-1 tvg-id="412" tvg-name="CINEMAX HD" group-title="MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch113_170_122",CINEMAX HD 
 http://axcestv.vip:8080/live/freeview/axcestv/516.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b0fbb95b8d4ab19d3ea816be9683310:560e1ef299aa9a4352e70ed14f8839b9
+#EXTINF:-1 tvg-id="FXM CHANNEL" tvg-name="FXM CHANNEL" group-title="MOVIES" tvg-logo="https://thestreamable.com/media/pages/channels/fxm/c9a71341c6-1616530510/fxm-banner-1536x864-crop.png",FXM CHANNEL
+http://axcestv.vip:8080/live/freeview/axcestv/636.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b0fbb95b8d4ab19d3ea816be9683310:560e1ef299aa9a4352e70ed14f8839b9
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY" group-title="MOVIES" tvg-logo="https://www.denofgeek.com/wp-content/uploads/2011/02/179237.jpg",SYFY
+http://axcestv.vip:8080/live/freeview/axcestv/637.ts
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b0fbb95b8d4ab19d3ea816be9683310:560e1ef299aa9a4352e70ed14f8839b9
+#EXTINF:-1 tvg-id="SUNDANCE TV" tvg-name="SUNDANCE TV" group-title="MOVIES" tvg-logo="https://www.logolynx.com/images/logolynx/77/77f89fe14a9dcf9fdc77bc1bc27360a4.jpeg",SUNDANCE TV
+http://axcestv.vip:8080/live/freeview/axcestv/638.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b0fbb95b8d4ab19d3ea816be9683310:560e1ef299aa9a4352e70ed14f8839b9
+#EXTINF:-1 tvg-id="STARZ TV" tvg-name="STARZ TV" group-title="MOVIES" tvg-logo="https://www.logolynx.com/images/logolynx/94/94e31859b5f80fe4469c5f7e80c9f407.jpeg",STARZ TV
+http://axcestv.vip:8080/live/freeview/axcestv/639.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b0fbb95b8d4ab19d3ea816be9683310:560e1ef299aa9a4352e70ed14f8839b9
+#EXTINF:-1 tvg-id="HALLMARK" tvg-name="HALLMARK" group-title="MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/Hallmark_Channel_logo.svg/1200px-Hallmark_Channel_logo.svg.png",HALLMARK
+http://axcestv.vip:8080/live/freeview/axcestv/640.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b0fbb95b8d4ab19d3ea816be9683310:560e1ef299aa9a4352e70ed14f8839b9
+#EXTINF:-1 tvg-id="HALLMARK MOVIE" tvg-name="HALLMARK MOVIE" group-title="MOVIES" tvg-logo="https://cdn.blog.bendbroadband.com/wp-content/uploads/sites/3/2016/07/HMM_logo_black-700x245.jpg",HALLMARK MOVIE
+http://axcestv.vip:8080/live/freeview/axcestv/641.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b0fbb95b8d4ab19d3ea816be9683310:560e1ef299aa9a4352e70ed14f8839b9
+#EXTINF:-1 tvg-id="LIFETIME US" tvg-name="LIFETIME US" group-title="MOVIES" tvg-logo="https://www.underconsideration.com/brandnew/archives/lifetime_2020_logo_before_after.png",LIFETIME U.S
+http://axcestv.vip:8080/live/freeview/axcestv/642.ts
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b0fbb95b8d4ab19d3ea816be9683310:560e1ef299aa9a4352e70ed14f8839b9
+#EXTINF:-1 tvg-id="LIFETIME MOVIES" tvg-name="LIFETIME MOVIES" group-title="MOVIES" tvg-logo="https://seeklogo.com/images/L/Lifetime_Movies_Network-logo-E2E88DE7F4-seeklogo.com.png",LIFETIME MOVIES
+http://axcestv.vip:8080/live/freeview/axcestv/643.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=09e9d9037bbc6d4eac45bdee4b718b10:05db97174848670a152d0b15f3dab994
+#EXTINF:-1 tvg-id="404" tvg-name="BOO HD" group-title="MOVIES" tvg-logo="https://iili.io/1NC1Cx.png",404 BOO 
+http://axcestv.vip:8080/live/freeview/axcestv/462.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=897aa91ee5958140b5ebd8076cced310:453b01beb73c78bd6f8ad380f8a06a8e
+#EXTINF:-1 tvg-id="411" tvg-name="HBO HD" group-title="MOVIES" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png",HBO(HD)
+http://axcestv.vip:8080/live/freeview/axcestv/501.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=897aa91ee5958140b5ebd8076cced310:453b01beb73c78bd6f8ad380f8a06a8e
+#EXTINF:-1 tvg-id="HBO MY" tvg-name="HBO MY" group-title="MOVIES" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png",HBO(MY)
+http://axcestv.vip:8080/live/freeview/axcestv/502.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=6c256f70830647e4bdf654d86e710ed5&key=fe41e9bcbae52f9d233407f7488bca5f
+#EXTINF:-1 tvg-id="HBOHitsHD.MACAN" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_hits.png" group-title="MOVIES",HBO HITS
+http://axcestv.vip:8080/live/freeview/axcestv/503.ts
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8cfb499a75630eca1d50e584f58e9310:0a11d637ad2eaa1f7a75f42b7fc72b30
+#EXTINF:-1 tvg-id="414" tvg-name="HBO Family HD" group-title="MOVIES" tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch112_170_122",HBO Family 
+http://axcestv.vip:8080/live/freeview/axcestv/504.ts
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=b64eee6360b118d0d90329cc2c9e4c60&key=4e97aa6422b26ffb372647dbd0a7683c
+#EXTINF:-1 tvg-id="HBOSignatureHD.MACAN" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="MOVIES",HBO SIGNATURE
+http://axcestv.vip:8080/live/freeview/axcestv/505.ts
+
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey-base64-2-hex-json.herokuapp.com/results.php?keyid=ce17264b317db108f19cdc11aa1a9e66&key=a21188aee8fc5c56d016fcffcc6b2295
+#EXTINF:-1 tvg-id="SonyPix.in" tvg-logo="http://live.flixhub.net/img/sonypixhd.jpg" tvg-id="" tvg-name="" group-title="MOVIES",Sony Pix
+http://axcestv.vip:8080/live/freeview/axcestv/514.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Movies_Now_HD.jpg" group-title="MOVIES",MOVIES NOW
+http://axcestv.vip:8080/live/freeview/axcestv/649.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mn%2Blogo.jpeg" group-title="MOVIES",MN PLUS
+http://axcestv.vip:8080/live/freeview/axcestv/650.ts
+
+#EXTINF:-1 tvg-logo="https://www.animationxpress.com/wp-content/uploads/2021/05/Flix.jpg" group-title="MOVIES",FLIX HD
+http://axcestv.vip:8080/live/freeview/axcestv/510.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c0/%26priv%C3%A9_hd.jpg" group-title="MOVIES",PRIVE HD
+http://axcestv.vip:8080/live/freeview/axcestv/511.ts
+
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/4c/4c4e272e131345e99ba4633179686a07.jpeg" group-title="MOVIES",STAR MOVIES
+http://axcestv.vip:8080/live/freeview/axcestv/512.ts
+
+#EXTINF:-1 tvg-logo="https://www.logolynx.com/images/logolynx/4c/4c4e272e131345e99ba4633179686a07.jpeg" group-title="MOVIES",STAR MOVIES SELECT
+http://axcestv.vip:8080/live/freeview/axcestv/513.ts
+
+
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/MNX#/media/File:MNX_new_logo.png" group-title="MOVIES",MNX HD
+http://axcestv.vip:8080/live/freeview/axcestv/515.ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cYggSQj/showtime-showcase.png" group-title="MOVIES" tvg-id="Showcase" tvg-name="ShowtimeShowcaseEast.us",Showcase
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9
+http://axcestv.vip:8080/live/freeview/axcestv/506.ts
+
+
+
+
+
 http://axcestv.vip:8080/live/freeview/axcestv/507.ts
 http://axcestv.vip:8080/live/freeview/axcestv/508.ts
 http://axcestv.vip:8080/live/freeview/axcestv/509.ts
