@@ -1,13 +1,20 @@
-TV
+SERVER MY
 
 LINK:http://axcestv.vip:8080
 USERNAME:freeview
 PASSWORD:axcestv
 
+LINK:http://tvmalaysia.cc:80
+USERNAME:449042
+PASSWORD:449042
+
+
+
+
+
+SERVER LUAR
+
 LINK:http://iptv.4ktezz.top:8080
 USERNAME:BPQYF8ngYFGK
 PASSWORD:HxLvGSFwPQvV
 
-LINK:http://tvmalaysia.cc:80
-USERNAME:449042
-PASSWORD:449042
